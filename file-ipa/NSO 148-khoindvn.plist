@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/ESign-khoindvn/ipa-dow/raw/main/file-ipa/NSO%20148-khoindvn.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://appcenter-filemanagement-distrib3ede6f06e.azureedge.net/b80036eb-c89d-4dfe-8f0a-0aeff2b1fda3/AppIcon60x60%402x.png?sv=2019-02-02&amp;sr=c&amp;sig=iUlC3qQnd1vMmgk0%2BKEbAjABQ7S3RoSBuFPssuVlMDE%3D&amp;se=2023-11-03T03%3A23%3A29Z&amp;sp=r</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.nsokun.148</string>
+				<key>bundle-version</key>
+				<string>2.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>2.0</string>
+				<key>title</key>
+				<string>NSO KUN 148</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
